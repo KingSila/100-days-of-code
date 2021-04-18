@@ -33,3 +33,12 @@
 
 * today we continue with Chained if statement and Objects   
 * we did a Golf and Cards javascript programs to solidify the concepts
+
+**Thoughts:**.#100daysofcode   Day 4
+
+* tried to squeeze at least 30 minutes on code on sunday  very strange also doing code on sunday but we motivated.
+
+* today we moved onto Objects and lots emphasis on the If statement,while loops   
+* The Record collection Object was pretty cool  to understand the concept  
+* I am fascinated at the progress on Day 4 and imagine the kind of progress would have made we moved on double digits dates like day 20.
+* 

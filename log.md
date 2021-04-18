@@ -27,3 +27,9 @@
 
 **Link to work:** https://github.com/KingSila/CODE-REPO.git
 
+**Thoughts:**.#100daysofcode   Day 3
+
+*  strange doing code on saturday but the habit starting to kick in now
+
+* today we continue with Chained if statement and Objects   
+* we did a Golf and Cards javascript programs to solidify the concepts

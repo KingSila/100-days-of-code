@@ -41,4 +41,14 @@
 * today we moved onto Objects and lots emphasis on the If statement,while loops   
 * The Record collection Object was pretty cool  to understand the concept  
 * I am fascinated at the progress on Day 4 and imagine the kind of progress would have made we moved on double digits dates like day 20.
-* 
+
+
+Thoughts:.#100daysofcode Day 5
+
+* i did close 2 hours of combined videos and programming  made really good progress
+* i am trying to rush through the tutorials and focus on exercises that will solidify the concepts
+* the destructuring concept is really interesting  the pieces are starting to come together.
+* i feel the concepts are starting to be hard and now i need to slow down.
+
+
+

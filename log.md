@@ -51,4 +51,13 @@ Thoughts:.#100daysofcode Day 5
 * i feel the concepts are starting to be hard and now i need to slow down.
 
 
+Thoughts:.#100daysofcode Day 6
+
+* finished the 1st part of the Javascript course  very proud of that.
+* there areas i need to focus on   Classes constructors and doing more code challenges before 2nd part of Javascript
+* the first code challenge little bit hard as i wrap  my head around thinking in OOP way 
+* slowly but surely i am getting there need just to be patient i would get the momentum i need
+Total  hours spent 3 
+
+
 

@@ -57,6 +57,7 @@ Thoughts:.#100daysofcode Day 6
 * there areas i need to focus on   Classes constructors and doing more code challenges before 2nd part of Javascript
 * the first code challenge little bit hard as i wrap  my head around thinking in OOP way 
 * slowly but surely i am getting there need just to be patient i would get the momentum i need
+* 
 Total  hours spent 3 
 
 

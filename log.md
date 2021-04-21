@@ -61,4 +61,14 @@ Thoughts:.#100daysofcode Day 6
 Total  hours spent 3 
 
 
+Thoughts:.#100daysofcode Day 7
+
+* The challenges are taking longer than anticipated
+* overall impressed by the challenges and the level of depth they cover
+* Little bit slow  but the key takeway as long i am learning  
+*
+* 
+Total  hours spent 4
+
+
 

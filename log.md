@@ -69,4 +69,13 @@ Thoughts:.#100daysofcode Day 7
 Total  hours spent 4
 
 
+Thoughts:.#100daysofcode Day 8
+
+* what a day continued with coding challenges focuing on nested for loops  
+* The code 2 challenge is 80 percent done  
+* tommorow will focus on testing for all different scenarios
+* the pace little bit slow but I am learning quite a lot.
+
+
+Total  hours spent 3
 

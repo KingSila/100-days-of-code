@@ -79,3 +79,16 @@ Thoughts:.#100daysofcode Day 8
 
 Total  hours spent 3
 
+Thoughts:.#100daysofcode Day 9
+
+* Finally got the longestword program working 
+* Learnt quite a bit about the return keyword and the logic of how the if else flows logically
+* we moved to the next challenge hopefully before the day end would make some progress
+
+https://i.imgur.com/mw910NQ.png
+
+Total  hours spent 2
+
+
+
+

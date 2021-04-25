@@ -99,5 +99,4 @@ Thoughts:.#100daysofcode Day 10
 Total Hours spent : 1 Hour
 
 
-Total  hours spent 2
 

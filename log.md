@@ -90,5 +90,14 @@ https://i.imgur.com/mw910NQ.png
 Total  hours spent 2
 
 
+Thoughts:.#100daysofcode Day 10
 
+*  The code challenge has highlighted need to spend more time on data structures 
+*  the next week focus will be on data structures and understandding them
+*  Is good i am doing this challenges as they show gaps in knowledge
+
+Total Hours spent : 1 Hour
+
+
+Total  hours spent 2
 

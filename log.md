@@ -43,7 +43,7 @@
 * I am fascinated at the progress on Day 4 and imagine the kind of progress would have made we moved on double digits dates like day 20.
 
 
-Thoughts:.#100daysofcode Day 5
+**Thoughts:**.#100daysofcode Day 5
 
 * i did close 2 hours of combined videos and programming  made really good progress
 * i am trying to rush through the tutorials and focus on exercises that will solidify the concepts
@@ -51,7 +51,7 @@ Thoughts:.#100daysofcode Day 5
 * i feel the concepts are starting to be hard and now i need to slow down.
 
 
-Thoughts:.#100daysofcode Day 6
+**Thoughts:**:.#100daysofcode Day 6
 
 * finished the 1st part of the Javascript course  very proud of that.
 * there areas i need to focus on   Classes constructors and doing more code challenges before 2nd part of Javascript
@@ -61,15 +61,14 @@ Thoughts:.#100daysofcode Day 6
 Total  hours spent 3 
 
 
-Thoughts:.#100daysofcode Day 7
+**Thoughts:**.#100daysofcode Day 7
 
 * The challenges are taking longer than anticipated
 * overall impressed by the challenges and the level of depth they cover
 * Little bit slow  but the key takeway as long i am learning  
 Total  hours spent 4
 
-
-Thoughts:.#100daysofcode Day 8
+**Thoughts:**.#100daysofcode Day 8
 
 * what a day continued with coding challenges focuing on nested for loops  
 * The code 2 challenge is 80 percent done  
@@ -79,7 +78,7 @@ Thoughts:.#100daysofcode Day 8
 
 Total  hours spent 3
 
-Thoughts:.#100daysofcode Day 9
+**Thoughts:**#100daysofcode Day 9
 
 * Finally got the longestword program working 
 * Learnt quite a bit about the return keyword and the logic of how the if else flows logically
@@ -89,8 +88,7 @@ https://i.imgur.com/mw910NQ.png
 
 Total  hours spent 2
 
-
-Thoughts:.#100daysofcode Day 10
+**Thoughts:**.#100daysofcode Day 10
 
 *  The code challenge has highlighted need to spend more time on data structures 
 *  the next week focus will be on data structures and understandding them
@@ -99,7 +97,7 @@ Thoughts:.#100daysofcode Day 10
 Total Hours spent : 1 Hour
 
 
-#100DaysOfCode  Day 11 of 100
+**Thoughts:**#100DaysOfCode  Day 11 of 100
 we spent the majority of the time learning about the data structures  in Javascript
 the 1st one is the Stack and implemented the basic program below 
 We also started learning about the Big O notation

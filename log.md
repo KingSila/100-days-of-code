@@ -98,9 +98,9 @@ Total Hours spent : 1 Hour
 
 
 **Thoughts:**#100DaysOfCode  Day 11 of 100
-we spent the majority of the time learning about the data structures  in Javascript
-the 1st one is the Stack and implemented the basic program below 
-We also started learning about the Big O notation
+* we spent the majority of the time learning about the data structures  in Javascript
+* the 1st one is the Stack and implemented the basic program below 
+* We also started learning about the Big O notation
 
 
 Total Hours spent : 1 Hour

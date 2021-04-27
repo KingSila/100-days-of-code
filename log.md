@@ -105,4 +105,10 @@ Total Hours spent : 1 Hour
 
 Total Hours spent : 1 Hour
 
+**Thoughts:**#100DaysOfCode  Day 12 of 100
+* Stacks  code is working next code challenge and next data structure
+* wasted lot of time on test cases in the browser
+*we looking at making test cases better 
+
+Total Hours spent : 2 Hour
 

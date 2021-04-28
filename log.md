@@ -112,3 +112,12 @@ Total Hours spent : 1 Hour
 
 Total Hours spent : 2 Hour
 
+
+**Thoughts:**#100DaysOfCode  Day 13 of 100
+*My objective for the day complete.,setting up good test cases 
+*i  learnt a bit about the constructor and the Class,
+*i learnt the hard way the use  of the keyword "export"  to export the function took me close 2 hours 
+-->http://exercism.io https://pic.twitter.com/3DI7CDuEK6
+
+Total Hours spent : 3 Hours
+

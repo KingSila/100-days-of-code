@@ -121,3 +121,9 @@ Total Hours spent : 2 Hour
 
 Total Hours spent : 3 Hours
 
+**Thoughts:**#100DaysOfCode  Day 14 of 100
+* today we spent the day fixing the code from yesterday yesterday and applying the mentors comments
+*had to go back and learn about the default parameter in the function
+*is amazing the feedback one get from an outsider when looking at your code
+
+Total Hours spent : 2 Hours

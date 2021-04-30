@@ -129,6 +129,7 @@ Total Hours spent : 3 Hours
 Total Hours spent : 2 Hours
 
 **Thoughts:**#100DaysOfCode  Day 15 of 100
+
 *I started the first part of building my first portfolio website
 
 *First phase it will track covid vaccinations daily and have a twitter feed

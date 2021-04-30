@@ -127,3 +127,15 @@ Total Hours spent : 3 Hours
 *is amazing the feedback one get from an outsider when looking at your code
 
 Total Hours spent : 2 Hours
+
+
+**Thoughts:*#100DaysOfCode Day 14 of 100
+*i started the first part of building my first portfolio website
+*First phase it will track covid vaccinations daily and have a twitter feed
+*is composed of javascript,html and CSS  
+*happy with first day content
+*tommorow will start feeding data
+
+Total Hours spent : 3 Hours
+
+

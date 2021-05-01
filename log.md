@@ -142,4 +142,15 @@ Total Hours spent : 2 Hours
 
 Total Hours spent : 3 Hours
 
+**Thoughts:**#100DaysOfCode  Day 16 of 100
+
+* had to resubmit code challenge  after mentor comments
+
+* the main portfolio website making progress we on 2nd data source api and we managed to generate the python chart
+
+
+* we started looking at executing the python chart via AWS lambda function
+
+
+Total Hours spent : 3 Hours 
 

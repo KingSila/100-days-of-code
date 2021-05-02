@@ -155,7 +155,7 @@ Total Hours spent : 3 Hours
 Total Hours spent : 3 Hours 
 
 
-**Thoughts:**#100DaysOfCode  Day 16 of 100
+**Thoughts:**#100DaysOfCode  Day 17 of 100
 
 *today we learnt about curl and using APIs
 

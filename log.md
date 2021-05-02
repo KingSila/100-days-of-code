@@ -154,3 +154,15 @@ Total Hours spent : 3 Hours
 
 Total Hours spent : 3 Hours 
 
+
+**Thoughts:**#100DaysOfCode  Day 16 of 100
+
+*today we learnt about curl and using APIs
+
+* the website has published great CSS content but data not showing
+
+* tommorow we focus on getting data from this api
+ 
+* fatique  we rest tommorow we come back 
+
+Total Hours spent : 2 Hours 

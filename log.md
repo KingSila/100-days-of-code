@@ -166,3 +166,16 @@ Total Hours spent : 3 Hours
 * fatique  we rest tommorow we come back 
 
 Total Hours spent : 2 Hours 
+
+
+**Thoughts:**#100DaysOfCode  Day 18 of 100
+
+* we completed the api website project
+
+* we now looking at doing personal website from scratch
+
+*  we also investigated options of hosting the website on aws and having a domain name
+ 
+* fatique again   we rest tommorow we come back 
+
+Total Hours spent : 3 Hours 

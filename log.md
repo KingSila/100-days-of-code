@@ -179,3 +179,16 @@ Total Hours spent : 2 Hours
 * fatique again   we rest tommorow we come back 
 
 Total Hours spent : 3 Hours 
+
+
+**Thoughts:**#100DaysOfCode  Day 19 of 100
+
+* We have started we the personal website from scratch using javascript,html abd css
+
+* We need to spent some time improving    the look and feel of it
+ 
+* The scrollable timeline is giving me issues so will dedicate some more time debugging it 
+
+Total Hours spent : 2 Hours 
+
+

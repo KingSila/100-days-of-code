@@ -192,3 +192,13 @@ Total Hours spent : 3 Hours
 Total Hours spent : 2 Hours 
 
 
+**Thoughts:**#100DaysOfCode  day 20 of 100
+
+* we have started with v2 of the personal website
+
+*I  spent the majority of the time troubleshooting CSS 
+
+* finally cracked it we were able 2 load the icon and capitalize letters.....was so ready to give up
+
+
+Total Hours spent : 3 Hours 

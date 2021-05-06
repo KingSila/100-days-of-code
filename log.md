@@ -202,3 +202,15 @@ Total Hours spent : 2 Hours
 
 
 Total Hours spent : 3 Hours 
+
+**Thoughts:**#100DaysOfCode  day 21 of 100
+
+* what a  day  continued with the website troubleshooting CSS
+
+* dont copy and paste CSS code from another person not understanding it 
+
+* The pace is slow but i am learning quite a lot
+
+
+Total Hours spent : 3 Hours
+

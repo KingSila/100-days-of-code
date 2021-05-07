@@ -214,3 +214,18 @@ Total Hours spent : 3 Hours
 
 Total Hours spent : 3 Hours
 
+**Thoughts:**#100DaysOfCode  day 22 of 100
+
+* the CSS troubleshooting has highlighted the need to go back to basics
+
+* will go through 9 hours course to cover html and css from scratch  
+
+* the course is practical as well will give me required daily coding time 
+
+* i have put the first  portfolio project on AWS  s3 that is accesible from the net.
+
+* That static website hosting by aws  is top stuff  i have internet endpoint that i basically pay nothing for.
+
+
+
+Total Hours spent : 4 Hours

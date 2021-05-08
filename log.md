@@ -229,3 +229,14 @@ Total Hours spent : 3 Hours
 
 
 Total Hours spent : 4 Hours
+
+**Thoughts:**#100DaysOfCode  day 23 of 100
+
+* today we focused more on the CSS  the course is showing me great things
+
+* 60% through the material happy with the pace 
+
+* it was a tough day from troubleshooting internet issues to computer issues  lets call ita day
+
+
+Total Hours spent : 3 Hours

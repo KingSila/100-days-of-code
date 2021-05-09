@@ -240,3 +240,16 @@ Total Hours spent : 4 Hours
 
 
 Total Hours spent : 3 Hours
+
+**Thoughts:**#100DaysOfCode  day 24 of 100
+
+* we have finished the course on css/html  great progress
+
+* we have continued with the personal website and is looking great
+
+* calling it a day as fatigue has set it now
+
+* we learnt CSS and bootsrap scripts  tommorow we continue
+
+
+Total Hours spent : 3 Hours

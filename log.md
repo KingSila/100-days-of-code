@@ -261,11 +261,11 @@ Total Hours spent : 3 Hours
 
 * the personal website is 80%  done super happy
  
-*CSS and bootstrap scripts i am super blown away what they can achieve
+* CSS and bootstrap scripts i am super blown away what they can achieve
 
-*tommorow we do remaining 20%
+* tommorow we do remaining 20%
 
-*we pushed hard today realy hard 
+* we pushed hard today realy hard 
 
 
 Total Hours spent : 5 Hours

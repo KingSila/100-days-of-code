@@ -258,9 +258,9 @@ Total Hours spent : 3 Hours
 **Thoughts:**#100DaysOfCode day 25 of 100
 
 * woow i am at 1/4  of the 100 day challenge super happy
-* 
+
 * the personal website is 80%  done super happy
-* 
+ 
 *CSS and bootstrap scripts i am super blown away what they can achieve
 
 *tommorow we do remaining 20%

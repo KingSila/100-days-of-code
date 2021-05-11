@@ -269,3 +269,17 @@ Total Hours spent : 3 Hours
 
 
 Total Hours spent : 5 Hours
+
+**Thoughts:**#100DaysOfCode day 26 of 100
+
+* finally completed the site using css and javascript and some bootstrap templates 
+
+* i underestimated the time it will take
+ 
+* we now trying to load onto S3 and make it public accesible
+
+
+* we pushed hard today realy hard 
+
+
+Total Hours spent : 5 Hours

@@ -283,3 +283,16 @@ Total Hours spent : 5 Hours
 
 
 Total Hours spent : 5 Hours
+
+
+**Thoughts:**#100DaysOfCode day 27 of 100
+
+🚑 another one in the bag the site is live and completed https://kingsila.github.io/
+
+🥇 i learnt the power of F12 in troubleshooting when things don't work saved me a couple of hours
+
+✍️ starting to get feedback from users and next iteration will be fixing.
+
+
+Total Hours spent : 3 Hours
+

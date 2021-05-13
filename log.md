@@ -296,3 +296,17 @@ Total Hours spent : 5 Hours
 
 Total Hours spent : 3 Hours
 
+
+**Thoughts:**#100DaysOfCode day 28 of 100
+
+🚑 Project 3 loading and the objective here is to save data to a database
+
+🥇 the form is ready and can take input  
+
+✍️ The majority of the day spent troubleshooting phpadmin to make it work on Xamp
+
+time for a break...tough day
+
+
+Total Hours spent : 4 Hours
+

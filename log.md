@@ -310,3 +310,20 @@ time for a break...tough day
 
 Total Hours spent : 4 Hours
 
+
+
+**Thoughts #100daysofcode day 29 of 100
+
+🥇Thats it for today  we will end on the Truthy and Falsy statements...i need to pause here
+
+🚑never a good thing to start day troubleshooting it just zaps the energy
+
+✍️good day overall...we back at Javascript basics
+
+✍️There is need now to pause and play what i need to do daily i am all over the place
+
+🚑I am rushing  i need to slow down the pace a bit.
+
+
+Total Hours spent : 2 Hours
+

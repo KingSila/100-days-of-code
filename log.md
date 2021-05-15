@@ -312,6 +312,9 @@ Total Hours spent : 4 Hours
 
 
 
+
+
+
 **Thoughts #100daysofcode day 29 of 100
 
 🥇Thats it for today  we will end on the Truthy and Falsy statements...i need to pause here
@@ -326,4 +329,18 @@ Total Hours spent : 4 Hours
 
 
 Total Hours spent : 2 Hours
+
+
+**Thoughts #100daysofcode day 30 of 100
+
+🥇we still continued with the basic of javascripts
+
+🚑today we focused on functions and default values
+
+✍️glittle bit fatique today and will continue tommorow 
+
+
+
+
+Total Hours spent : 1 Hours
 

@@ -339,6 +339,18 @@ Total Hours spent : 2 Hours
 
 ✍️glittle bit fatique today and will continue tommorow 
 
+Total Hours spent : 1 Hours
+
+
+**Thoughts #100daysofcode day 31 of 100
+
+🥇31 days coding what a feeling...the consistency is starting to make impact
+
+🚑today we focused on functions and different ways of declaring them
+
+✍️need to keep reminding myself this is not a sprint but a marathon ...take it easy
+
+✍️ on next focus will be data structures in javascript
 
 
 

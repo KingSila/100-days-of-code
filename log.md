@@ -353,6 +353,12 @@ Total Hours spent : 1 Hours
 ✍️ on next focus will be data structures in javascript
 
 
-
 Total Hours spent : 1 Hours
+
+
+**Thoughts #100daysofcode day 32 of 100
+
+* we have focused on data structures  and is amazing how u master the basics everything comes together
+*  today it was all about loops and tomorrow will continue with the while loop
+*  we taking it easy and focus on knowing what we doing
 

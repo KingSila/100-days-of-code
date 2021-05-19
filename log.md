@@ -362,3 +362,9 @@ Total Hours spent : 1 Hours
 *  today it was all about loops and tomorrow will continue with the while loop
 *  we taking it easy and focus on knowing what we doing
 
+
+**Thoughts #100daysofcode day 33 of 100
+
+* Arrays and Loops have been completed
+* is getting interesting now  we now at the Iterators
+* after this section will shift a gear a bit and move onto a Javascript project

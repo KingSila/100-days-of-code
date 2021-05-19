@@ -361,10 +361,23 @@ Total Hours spent : 1 Hours
 * we have focused on data structures  and is amazing how u master the basics everything comes together
 *  today it was all about loops and tomorrow will continue with the while loop
 *  we taking it easy and focus on knowing what we doing
-
+Total Hours spent : 1 Hours
 
 **Thoughts #100daysofcode day 33 of 100
 
 * Arrays and Loops have been completed
 * is getting interesting now  we now at the Iterators
 * after this section will shift a gear a bit and move onto a Javascript project
+Total Hours spent : 1 Hours
+
+**Thoughts #100daysofcode day 34 of 100
+
+* the learning fatique is starting to creep in  time to switch to project mode
+* we will vary and divide the day between tutorials and basic javascript projects
+* tommorow will refocus gain on Iterators- High order functions i am struggling to understand it
+
+Total Hours spent : 2 Hours
+
+
+
+

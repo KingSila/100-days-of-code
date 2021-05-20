@@ -379,5 +379,11 @@ Total Hours spent : 1 Hours
 Total Hours spent : 2 Hours
 
 
+**Thoughts #100daysofcode day 35 of 100
 
+* we achieved quite a bit today did two practical javascript projects completed.
+* we will continue next few days wrapping up practical javascript projects 
+*  we starting to understand the high order functions 
+
+Total Hours spent : 4 Hours
 

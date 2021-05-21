@@ -387,3 +387,10 @@ Total Hours spent : 2 Hours
 
 Total Hours spent : 4 Hours
 
+**Thoughts #100daysofcode day 36 of 100
+
+* happy with the progress like they said it will make sense once you get ypur hands dirty
+*  practice make perfect happy with practical projects we accomplished today
+*  we move onto Loops 
+
+Total Hours spent : 4 Hours

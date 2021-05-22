@@ -394,3 +394,11 @@ Total Hours spent : 4 Hours
 *  we move onto Loops 
 
 Total Hours spent : 4 Hours
+
+**Thoughts #100daysofcode day 37 of 100
+
+* finally i get the high ordered functions pretty neat
+* we making good progress  we did a couple of programs on Iterations
+*  Tommorow we should be ready to start with Objects 
+
+Total Hours spent : 2 Hours

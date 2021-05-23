@@ -402,3 +402,12 @@ Total Hours spent : 4 Hours
 *  Tommorow we should be ready to start with Objects 
 
 Total Hours spent : 2 Hours
+
+
+**Thoughts #100daysofcode day 38 of 100
+
+* This exceptions call for a break....let see we can return later tonight with a fresh mind
+* Yup the projects are starting to get interesting   Arrays and different methods 
+* Objectives for the day achieved  but we can still do more 
+
+Total Hours spent : 3 Hours

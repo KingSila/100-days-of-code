@@ -411,3 +411,11 @@ Total Hours spent : 2 Hours
 * Objectives for the day achieved  but we can still do more 
 
 Total Hours spent : 3 Hours
+
+**Thoughts #100daysofcode day 39 of 100
+
+* Finally we at the Javascripts Objects the real fun begins
+* i completed  what i needed to do today....highlight for me was those thousands methods u can do on arrays yeses.
+*time to rest  my brain and body starting to complain
+
+Total Hours spent : 4 Hours

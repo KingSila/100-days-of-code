@@ -419,3 +419,12 @@ Total Hours spent : 3 Hours
 *time to rest  my brain and body starting to complain
 
 Total Hours spent : 4 Hours
+
+
+**Thoughts #100daysofcode day 40 of 100
+
+* Yup i did say objects are an interesting concept  my head started feeling it already
+* we now at advanced Objects and we progressing very well   Getter and Setters   in javascript
+* is critical now again to slow down and understand what we doing
+
+Total Hours spent : 4 Hours

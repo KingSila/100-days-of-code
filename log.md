@@ -428,3 +428,10 @@ Total Hours spent : 4 Hours
 * is critical now again to slow down and understand what we doing
 
 Total Hours spent : 4 Hours
+
+**Thoughts #100daysofcode day 41 of 100
+
+* The focus of today was objects and we taking it easy and slow
+* is now starting to come together nicely  the this keyword , the functions and the scope of the functions
+
+Total Hours spent : 2 Hours

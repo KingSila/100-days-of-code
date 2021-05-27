@@ -435,3 +435,12 @@ Total Hours spent : 4 Hours
 * is now starting to come together nicely  the this keyword , the functions and the scope of the functions
 
 Total Hours spent : 2 Hours
+
+**Thoughts #100daysofcode day 42 of 100
+
+* thats the beauty of Programming one day on a roll the next day u hit a blocker
+* The exception calls for a break we come back much stronger and refreshed
+* Interesting problem but i need  to break it down 
+* Tommorow we focus on that Object creation
+
+Total Hours spent : 2 Hours

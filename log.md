@@ -444,3 +444,12 @@ Total Hours spent : 2 Hours
 * Tommorow we focus on that Object creation
 
 Total Hours spent : 2 Hours
+
+**Thoughts #100daysofcode day 43 of 100
+
+* Two Objects projects  in the bag  we did good
+* i learnt about the object literals and how to save properties into arrays 
+* Time to rest
+* Tommorow is all about Classes
+
+Total Hours spent : 3 Hours

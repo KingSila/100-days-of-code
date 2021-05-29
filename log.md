@@ -453,3 +453,12 @@ Total Hours spent : 2 Hours
 * Tommorow is all about Classes
 
 Total Hours spent : 3 Hours
+
+**Thoughts #100daysofcode day 44 of 100
+
+* we on a roll we now finished Classes on javascript
+* we move into practical project to see the stuff in action
+* Tough to concentrate on weekends  but we pushed a good 2 hours 
+
+
+Total Hours spent : 2.5 Hours

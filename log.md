@@ -462,3 +462,12 @@ Total Hours spent : 3 Hours
 
 
 Total Hours spent : 2.5 Hours
+
+**Thoughts #100daysofcode day 45 of 100
+
+* copy and paste doesnt work it will mess up your day and you will debug the whole day
+* good learning overall in implementing the Classes in javascript
+* The this keyword is highlight learning of the day
+
+
+Total Hours spent : 4 Hours

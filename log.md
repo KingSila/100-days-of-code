@@ -474,7 +474,7 @@ Total Hours spent : 4 Hours
 
 **Thoughts #100daysofcode day 46 of 100
 
-* good day overall we completed javascript calsses projects
+* good day overall we completed javascript classes projects
 * our focus now is Modules
 * The Transpilation with Babel  is highlight learning of the day
 

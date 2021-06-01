@@ -481,3 +481,11 @@ Total Hours spent : 4 Hours
 
 Total Hours spent : 4 Hours
 
+**Thoughts #100daysofcode day 47 of 100
+
+* 2 hours debugging calls for a break  lets come back tommorow
+* Today it was all about import and export  of modules
+* Good day overall my head is spinning 
+
+
+Total Hours spent : 4 Hours

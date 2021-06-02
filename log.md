@@ -489,3 +489,11 @@ Total Hours spent : 4 Hours
 
 
 Total Hours spent : 4 Hours
+
+**Thoughts #100daysofcode day 48 of 100
+
+* what a day...continued with troubleshooting we made some progress
+* Modules is my weak area might need to revisit it in future
+* we now full steam ahead and we now at Promises....is very promising 
+
+Total Hours spent : 4 Hours

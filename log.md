@@ -497,3 +497,11 @@ Total Hours spent : 4 Hours
 * we now full steam ahead and we now at Promises....is very promising 
 
 Total Hours spent : 4 Hours
+
+**Thoughts #100daysofcode day 49 of 100
+
+* I thought  Promises section is going to be the shortest was in for a suprise
+* Promises became the toughest concept for me to date.
+* 4 hours into it we came out at the other end 
+
+Total Hours spent : 4 Hours

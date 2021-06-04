@@ -505,3 +505,13 @@ Total Hours spent : 4 Hours
 * 4 hours into it we came out at the other end 
 
 Total Hours spent : 4 Hours
+
+
+**Thoughts #100daysofcode day 50 of 100
+
+*Yup is DAY 50  means halfway super happy
+* happy with today progress yes the topics and the code is getting heavier
+* Tommorow we wrap up this Javascript course  and start building 
+
+Total Hours spent : 4 Hours
+

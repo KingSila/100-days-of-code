@@ -515,3 +515,13 @@ Total Hours spent : 4 Hours
 
 Total Hours spent : 4 Hours
 
+
+**Thoughts #100daysofcode day 51 of 100
+
+*today it was all about GET and POST
+* we pushed a lot and learnt about AJAX as well.
+* we try amd implement  what we learnt  next.
+
+Total Hours spent : 4 Hours
+
+

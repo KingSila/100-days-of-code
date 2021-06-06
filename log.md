@@ -524,4 +524,10 @@ Total Hours spent : 4 Hours
 
 Total Hours spent : 4 Hours
 
+**Thoughts #100daysofcode day 52 of 100
 
+*Javascript finally  done we move onto React
+* we learnt a lot of stuff but is critical to put them into practise daily.
+* time for a break and yes i did hit an error .
+
+Total Hours spent : 4 Hours

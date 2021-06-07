@@ -531,3 +531,11 @@ Total Hours spent : 4 Hours
 * time for a break and yes i did hit an error .
 
 Total Hours spent : 4 Hours
+
+**Thoughts #100daysofcode day 53 of 100
+
+*we now fully into React 
+* An error normally means yup we must go for a break comeback tommorow
+* we come back to the Ternary operator tommorow
+
+Total Hours spent : 4 Hours

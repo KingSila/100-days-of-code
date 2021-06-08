@@ -539,3 +539,11 @@ Total Hours spent : 4 Hours
 * we come back to the Ternary operator tommorow
 
 Total Hours spent : 4 Hours
+
+**Thoughts #100daysofcode day 54 of 100
+
+*My head is spinning   React Day 1 was fun
+*we go again tommorow  React Components let see
+* The javascript basics are starting to become critical now 
+
+Total Hours spent : 4 Hours

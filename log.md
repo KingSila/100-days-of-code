@@ -547,3 +547,12 @@ Total Hours spent : 4 Hours
 * The javascript basics are starting to become critical now 
 
 Total Hours spent : 4 Hours
+
+**Thoughts #100daysofcode day 55 of 100
+
+*had to change gears a bit and return to the Javascript project
+* the first blocker is the date object  to display it
+*  This Javascript project is strechig me ....lets come back tommorow with fresh mind
+*  out of all the projects had to choose a difficult one 
+
+Total Hours spent : 4 Hours

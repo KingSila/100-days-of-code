@@ -556,3 +556,12 @@ Total Hours spent : 4 Hours
 *  out of all the projects had to choose a difficult one 
 
 Total Hours spent : 4 Hours
+
+**Thoughts #100daysofcode day 56 of 100
+
+*good progress on the javascript project
+* we managed to get all selected ouputs on the html form
+* next step is saving all that data using php  into mysql
+
+
+Total Hours spent : 4 Hours

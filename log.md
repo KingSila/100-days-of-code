@@ -565,3 +565,13 @@ Total Hours spent : 4 Hours
 
 
 Total Hours spent : 4 Hours
+
+**Thoughts #100daysofcode day 57 of 100
+
+*The php form is able to save form data to the database
+* good progress for the day key learnings   PHP and mysql
+*tommorow we display the data inserted to the db  in html tables.
+
+
+Total Hours spent : 6 Hours
+

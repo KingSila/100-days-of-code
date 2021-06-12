@@ -575,3 +575,13 @@ Total Hours spent : 4 Hours
 
 Total Hours spent : 6 Hours
 
+
+**Thoughts #100daysofcode day 58 of 100
+
+*Today work is complete  results displaying from db
+* using html tables and select statements  we displayed the data
+* the next challenges is putting multiple tables in the html and styling
+
+
+Total Hours spent : 6 Hours
+

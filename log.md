@@ -585,3 +585,12 @@ Total Hours spent : 6 Hours
 
 Total Hours spent : 6 Hours
 
+**Thoughts #100daysofcode day 59 of 100
+
+*Tough day  troubleshooting
+* using php  to render charts has given me trouble
+* will continue troubleshooting
+
+
+Total Hours spent : 6 Hours
+

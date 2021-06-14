@@ -594,3 +594,14 @@ Total Hours spent : 6 Hours
 
 Total Hours spent : 6 Hours
 
+Total Hours spent : 6 Hours
+
+**Thoughts #100daysofcode day 60 of 100
+
+* we back on track all the required data rendering on the Project
+* php,javascript,mysql and html  is no child's play
+* next comes CSS  lets see 
+
+
+Total Hours spent : 6 Hours
+

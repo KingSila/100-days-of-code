@@ -605,3 +605,12 @@ Total Hours spent : 6 Hours
 
 Total Hours spent : 6 Hours
 
+**Thoughts #100daysofcode day 61 of 100
+
+* time to close off this javascript Project.
+* everything working as expected 
+* Next stop is React
+* Also starting to brainstorm next project to build....Food has just sprung to mind..yup we building a recipe/menu builder
+
+Total Hours spent : 3 Hours
+

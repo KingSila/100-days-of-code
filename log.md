@@ -614,3 +614,13 @@ Total Hours spent : 6 Hours
 
 Total Hours spent : 3 Hours
 
+
+**Thoughts #100daysofcode day 62 of 100
+
+* we now back into React
+* straighforward but again the Javascripts basics comes to the fore
+* next day will start with practising everything React
+
+
+Total Hours spent : 1 Hours
+

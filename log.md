@@ -624,3 +624,13 @@ Total Hours spent : 3 Hours
 
 Total Hours spent : 1 Hours
 
+
+**Thoughts #100daysofcode day 63 of 100
+
+* React all i can say is wooow  
+* we have first completed first section on react basics
+* tommorow we focus on building and debugging....yup we already hit an error today time to rest...
+
+
+Total Hours spent : 2 Hours
+

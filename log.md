@@ -634,3 +634,13 @@ Total Hours spent : 1 Hours
 
 Total Hours spent : 2 Hours
 
+
+
+**Thoughts #100daysofcode day 64 of 100
+
+* bad day in the office  spent most time debugging  
+* our focus will be put on troubleshooting React errors at the moment
+* Time to rest and give it a fresh look tommorow
+
+
+Total Hours spent : 1 Hours

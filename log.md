@@ -644,3 +644,13 @@ Total Hours spent : 2 Hours
 
 
 Total Hours spent : 1 Hours
+
+**Thoughts #100daysofcode day 65 of 100
+
+* great to be back  we continuing with React  
+* managed to solve errors causing the app to fail
+*Created our react app locally and learnt about Chrome Dev Tools for debugging 
+*taking it easy  thats it for today
+
+
+Total Hours spent : 1 Hours

@@ -654,3 +654,12 @@ Total Hours spent : 1 Hours
 
 
 Total Hours spent : 1 Hours
+
+**Thoughts #100daysofcode day 66 of 100
+
+*today  we learnt about the setSate property in React  pretty neat 
+* i am liking how is all coming together 
+*next session will be starting to practise with a couple of small projects
+
+Total Hours spent : 1 Hours
+

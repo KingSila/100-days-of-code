@@ -663,3 +663,13 @@ Total Hours spent : 1 Hours
 
 Total Hours spent : 1 Hours
 
+**Thoughts #100daysofcode day 67 of 100
+
+* Fatique is starting to creep in next few days will start to shift between project and react
+* good progress on react today  we finished the basics
+* we also started doing some css on an old project
+* Interesting on how you need to include the <style> tags if your page is a php file
+
+Total Hours spent : 1 Hours
+
+

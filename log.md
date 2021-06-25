@@ -673,3 +673,11 @@ Total Hours spent : 1 Hours
 Total Hours spent : 1 Hours
 
 
+**Thoughts #100daysofcode day 68 of 100
+
+*  we concentrated on developer Tools with react
+*  seems there is bug when changin props and reloading the components
+* will focus the next day looking at this
+
+
+Total Hours spent : 1 Hours

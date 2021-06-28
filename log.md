@@ -679,5 +679,12 @@ Total Hours spent : 1 Hours
 *  seems there is bug when changin props and reloading the components
 * will focus the next day looking at this
 
+Total Hours spent : 1 Hours
+ 
+**Thoughts #100daysofcode day 69 of 100
+
+*  continued with next section of React
+*  today it was all about lifecycle methods
+* tommorow will put the concepts to the test
 
 Total Hours spent : 1 Hours

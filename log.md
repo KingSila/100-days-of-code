@@ -688,3 +688,11 @@ Total Hours spent : 1 Hours
 * tommorow will put the concepts to the test
 
 Total Hours spent : 1 Hours
+ 
+ **Thoughts #100daysofcode day 70 of 100
+
+*  Fatique seems to setting  in we managed to put in an hour today
+*  managed to complete Profile pages using props and states 
+* Next up on the list  Stateless Functional Components
+
+Total Hours spent : 1 Hours

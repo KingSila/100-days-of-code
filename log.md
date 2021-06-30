@@ -695,4 +695,12 @@ Total Hours spent : 1 Hours
 *  managed to complete Profile pages using props and states 
 * Next up on the list  Stateless Functional Components
 
-Total Hours spent : 1 Hours
+Total Hours spent : 1 Hour
+ 
+  **Thoughts #100daysofcode day 71 of 100
+
+*  i am starting to feel the power and ease of React
+*  just started with React Hooks  super cool stuff
+* Again javascript comes through with Functional components.
+ 
+ Total Hours spent : 1 Hour

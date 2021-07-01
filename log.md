@@ -704,3 +704,14 @@ Total Hours spent : 1 Hour
 * Again javascript comes through with Functional components.
  
  Total Hours spent : 1 Hour
+ 
+ 
+   **Thoughts #100daysofcode day 72 of 100
+
+*  i spent some time with css  you need to be careful here this thing can be hard
+*  also spent some time with React Hooks  still say what a beauty
+* my mind is all over the place hopefully tommorow i can get a solid  2 hours 
+ 
+ Total Hours spent : 1 Hour
+ 
+ 

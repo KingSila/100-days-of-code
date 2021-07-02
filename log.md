@@ -715,3 +715,13 @@ Total Hours spent : 1 Hour
  Total Hours spent : 1 Hour
  
  
+ **Thoughts #100daysofcode day 73 of 100
+
+*  continiuing with React Hooks
+* i neeed to spent some more time reading baout the spread syntax  little bit confussed
+* we continue tommorow with some more React
+ 
+ Total Hours spent : 1 Hour
+ 
+ 
+ 

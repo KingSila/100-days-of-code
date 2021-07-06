@@ -723,5 +723,16 @@ Total Hours spent : 1 Hour
  
  Total Hours spent : 1 Hour
  
+  **Thoughts #100daysofcode day 74 of 100
+
+* tough  1 hour today but we did it  
+* need to be patient and it take it slow with React
+ * we now on the Section on Objects in state.
+ * i also need to refresh  on JavaScript Array filter especially using index  
+ 
+ Total Hours spent : 1 Hour
+ 
+ 
+
  
  

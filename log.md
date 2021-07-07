@@ -733,6 +733,14 @@ Total Hours spent : 1 Hour
  Total Hours spent : 1 Hour
  
  
+   **Thoughts #100daysofcode day 75 of 100
+
+* slowly getting back
+* we did React react and more React
+ * using multiple variables to change different states  super powerful
+ * The asynchronous update of updating the states starting to make sense.
+ 
+ Total Hours spent : 1 Hour
 
  
  

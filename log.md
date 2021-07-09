@@ -743,7 +743,7 @@ Total Hours spent : 1 Hour
  Total Hours spent : 1 Hour
 
  
-   **Thoughts #100daysofcode day 76 of 100
+ **Thoughts #100daysofcode day 76 of 100
 
 * Today the focus was on React Hooks
 *  slowly warming up to React and the simplicity
@@ -751,3 +751,13 @@ Total Hours spent : 1 Hour
 
  
  Total Hours spent : 1 Hour
+ 
+ **Thoughts #100daysofcode day 77 of 100
+
+* The effect Hook i can only say woow
+* super impressed again with few lines of code on what React is able to do
+ * i am taking it slow there is a lot to take in but is critical to understand what is happening
+ 
+ 
+ Total Hours spent : 1 Hour
+ 

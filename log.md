@@ -761,3 +761,12 @@ Total Hours spent : 1 Hour
  
  Total Hours spent : 1 Hour
  
+  **Thoughts #100daysofcode day 78 of 100
+
+* effect and Stake Hook complete
+* we  now moving and try to code what we learnt in React
+ * might need to do  few retries  lets go
+ 
+ 
+ Total Hours spent : 1 Hour
+ 

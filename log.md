@@ -770,3 +770,12 @@ Total Hours spent : 1 Hour
  
  Total Hours spent : 1 Hour
  
+ **Thoughts #100daysofcode day 79 of 100
+
+* my lessson of the day has to be filter method in Arrays
+* I had to stop a bit and understand what this method is doing especialy if you need top remove items from an array
+ * React is straightforward but one has to pause a bit to fully understand 
+ 
+ 
+ Total Hours spent : 1 Hour
+ 

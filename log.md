@@ -779,3 +779,11 @@ Total Hours spent : 1 Hour
  
  Total Hours spent : 1 Hour
  
+  **Thoughts #100daysofcode day 80 of 100
+
+* Parent passing to the child passing to the Sibling   shuuuuu my head starts to spin
+* we now at the section of Component updates to other Components
+ * Again we will need to slow down  lots of things hapeening here
+ 
+ Total Hours spent : 1 Hour
+ 

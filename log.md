@@ -787,3 +787,12 @@ Total Hours spent : 1 Hour
  
  Total Hours spent : 1 Hour
  
+
+  **Thoughts #100daysofcode day 81 of 100
+
+* How React  trying to achieve with components starting to slowly make sense
+* Passing  states/props from Statefull components to Stateless components 
+* We now onto Styles in React hopefully is straightforward
+ 
+ 
+ Total Hours spent : 1 Hour

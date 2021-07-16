@@ -796,3 +796,15 @@ Total Hours spent : 1 Hour
  
  
  Total Hours spent : 1 Hour
+ 
+ 
+  **Thoughts #100daysofcode day 82 of 100
+
+* slowly but surely we moving in React
+* The syles section yup pretty straightforward  and clean
+*  i need to pause a bit on PropTypes in React just to understand it fully
+
+ 
+ 
+ 
+ Total Hours spent : 1 Hour

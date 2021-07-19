@@ -804,7 +804,10 @@ Total Hours spent : 1 Hour
 * The syles section yup pretty straightforward  and clean
 *  i need to pause a bit on PropTypes in React just to understand it fully
 
- 
- 
- 
  Total Hours spent : 1 Hour
+ 
+ **Thoughts #100daysofcode day 83 of 100
+
+* Today the focus was about PropTypes,ReactForms and Uncontrolled components
+* we made a breakthrough on PropTypes why we need them yipeeeee
+* mini Practical project  before we start first big Project using React 

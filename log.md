@@ -811,3 +811,12 @@ Total Hours spent : 1 Hour
 * Today the focus was about PropTypes,ReactForms and Uncontrolled components
 * we made a breakthrough on PropTypes why we need them yipeeeee
 * mini Practical project  before we start first big Project using React 
+ 
+ 
+  **Thoughts #100daysofcode day 84 of 100
+
+* First React course complete  happy about that.
+ * The course has highlighted few areas i need to look at  especially the passing of props between different components
+ *The next objective is building is applying the knowledge in few projects 
+ 
+ 

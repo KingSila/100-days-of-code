@@ -821,3 +821,12 @@ Total Hours spent : 1 Hour
  *The next objective is building is applying the knowledge in few projects 
  
  
+  
+**Thoughts #100daysofcode day 85 of 100
+
+*  Why  didnt you guys tell me about CSS  being a discipline on its own
+ * i know CSS and know how it works  when doing in React and importing and exporting thats a beast
+ * the majority of the day was spent settting up this peoject on vscode and doing CSS
+ 
+ 
+ 

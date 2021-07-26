@@ -829,4 +829,11 @@ Total Hours spent : 1 Hour
  * the majority of the day was spent settting up this peoject on vscode and doing CSS
  
  
+ **Thoughts #100daysofcode day 86 of 100
+
+*  i keep on going on React and trying to understand this components model and usage of multiple states
+* we get the data save it in a state  but the trick part is what props do we initialize the Object with that we pass to the SetState ?
+* i think once i know how to initiliaze the state with, the rest should be easy as is just importing and exporting of the different components.i think 
+* Those who did React and understood it within a month please raise your hands we need to have a chat
+ 
  

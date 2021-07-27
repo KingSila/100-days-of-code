@@ -836,4 +836,10 @@ Total Hours spent : 1 Hour
 * i think once i know how to initiliaze the state with, the rest should be easy as is just importing and exporting of the different components.i think 
 * Those who did React and understood it within a month please raise your hands we need to have a chat
  
+ **Thoughts:**.#100daysofcode   Day 87
+
+*  slowly but surely the React components is starting to gel 
+*  build something smalll test it and move to the next thing 
+*  Make something work first  then sytle it
+ * We walking through this React Movie site and learning lots.
  

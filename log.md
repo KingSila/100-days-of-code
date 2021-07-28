@@ -843,3 +843,10 @@ Total Hours spent : 1 Hour
 *  Make something work first  then sytle it
  * We walking through this React Movie site and learning lots.
  
+ 
+  **Thoughts:**.#100daysofcode   Day 88
+
+*  UseRef  is pretty usefull in React
+*  my lesson of the day has to be that Inline function 
+*  has to spend some time tommorow reading more about React there is so much to learn
+ 
